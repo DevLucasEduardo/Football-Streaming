@@ -15,7 +15,7 @@ The platform is built using HTML and CSS. Flexbox is utilized for efficient posi
 - This project contains **only** the front-end web page
 - 
 ## Screenshots
-![Screenshot 1](/img/.png)
+![Screenshot 1](/img/Untitled.png)
 ![Screenshot 2](/path/to/screenshot2.png)
 
 ## Getting Started
